@@ -38,7 +38,7 @@ android {
 
     sourceSets {
         main {
-            jniLibs.srcDirs = ['~/src/gnuradio-android/toolchain/jni']
+            jniLibs.srcDirs = ['../../src/gnuradio-android/toolchain/jni']
         }
     }
 }
